@@ -1,1 +1,1 @@
-# GTinsights
+# gtigol
